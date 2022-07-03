@@ -1,7 +1,7 @@
 # Activity-Recognition-system
 Activity Recognition system based on Multisensor data fusion
 
-Data Set Information:
+## Data Set Information:
 
 This dataset represents a real-life benchmark in the area of Activity Recognition applications, as described in [1]. 
 
